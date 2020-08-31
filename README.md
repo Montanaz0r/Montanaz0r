@@ -1,4 +1,4 @@
-### Hi there, I'm Bogusz - aka Montanaz0r 👋
+# Hi there, I'm Bogusz - aka Montanaz0r 👋
 
 ## I'm a Data Scientist and a huge fan of Thomas Pynchon's writing.
 
@@ -23,6 +23,6 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bogusz-janiak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bogusz-janiak/" height="30" width="30" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/boguszjaniak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/boguszjaniak" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/bogusz-janiak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bogusz-janiak/" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/boguszjaniak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/boguszjaniak" height="30" width="30" /></a>
 </p>
