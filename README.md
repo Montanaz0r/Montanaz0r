@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
-- 📫 How to reach me **bogusz.janiak@gmail.com**
+- 📫 Reach me at: **bogusz.janiak@gmail.com**
 
-- ⚡ Fun fact **I consider Fellini's 8 1/2 as the best movie ever**
+- ⚡ Fun fact **I consider Fellini's 8 1/2 to be the best movie ever!**
 
 ### Languages and Tools:
 
