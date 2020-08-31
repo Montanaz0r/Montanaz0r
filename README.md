@@ -17,7 +17,7 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-black.vercel.app/api/spotify-playing" alt="Montanaz0r Spotify Playing" width="350" />](https://open.spotify.com/user/montanaz0r?si=ot3Jhrp6Tl25cOHN3a3b8A)
 
-[![Spotify](https://Montanaz0r.vercel.app/api/spotify)](https://open.spotify.com/user/montanaz0r?si=ot3Jhrp6Tl25cOHN3a3b8A)
+[![Spotify](https://novatorem.montanaz0r.vercel.app/api/spotify)](https://open.spotify.com/user/montanaz0r?si=ot3Jhrp6Tl25cOHN3a3b8A)
 
 ### Languages and Tools:
 
