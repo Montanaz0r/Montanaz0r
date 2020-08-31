@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I consider Fellini's 8 1/2 to be the best movie ever!**
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.montanaz0r.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ot3Jhrp6Tl25cOHN3a3b8A)
+[<img src="https://novatorem-black.vercel.app/api/spotify-playing" alt="Montanaz0r Spotify Playing" width="350" />](https://open.spotify.com/user/montanaz0r?si=ot3Jhrp6Tl25cOHN3a3b8A)
 
 ### Languages and Tools:
 
@@ -26,12 +26,6 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//rapw3k/glosis/pull/6) in [rapw3k/glosis](https://github.com//rapw3k/glosis)
-2. 💪 Opened PR [#5](https://github.com//rapw3k/glosis/pull/5) in [rapw3k/glosis](https://github.com//rapw3k/glosis)
-3. 🎉 Merged PR [#2](https://github.com//Montanaz0r/glosis/pull/2) in [Montanaz0r/glosis](https://github.com//Montanaz0r/glosis)
-4. 💪 Opened PR [#2](https://github.com//Montanaz0r/glosis/pull/2) in [Montanaz0r/glosis](https://github.com//Montanaz0r/glosis)
-5. ❌ Reopened PR [#4](https://github.com//rapw3k/glosis/pull/4) in [rapw3k/glosis](https://github.com//rapw3k/glosis)
-<!--END_SECTION:activity-->
 
 ### Connect with me:
 
