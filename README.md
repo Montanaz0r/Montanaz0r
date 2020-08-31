@@ -23,9 +23,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montanaz0r&layout=compact&hide=html" alt="montanaz0r" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montanaz0r&show_icons=true" alt="montanaz0r" /></p>
 
-### Recent Activity:
+### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ### Connect with me:
 
