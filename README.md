@@ -19,18 +19,13 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp; <img height="40" width="40" src="https://www.anysoft.pl/images/items/4636/pycharm-logo_big.png" /></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp; <img height="40" width="40" src="https://www.anysoft.pl/images/items/4636/pycharm-logo_big.png" />&nbsp;<img height="40" width="40" src="https://rdflib.readthedocs.io/en/stable/_static/logo-rdflib.png" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montanaz0r&layout=compact&hide=html" alt="montanaz0r" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montanaz0r&show_icons=true" alt="montanaz0r" /></p>
 
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com//rapw3k/glosis/pull/7) in [rapw3k/glosis](https://github.com//rapw3k/glosis)
-2. 🎉 Merged PR [#3](https://github.com//Montanaz0r/glosis/pull/3) in [Montanaz0r/glosis](https://github.com//Montanaz0r/glosis)
-3. 💪 Opened PR [#3](https://github.com//Montanaz0r/glosis/pull/3) in [Montanaz0r/glosis](https://github.com//Montanaz0r/glosis)
-4. 💪 Opened PR [#6](https://github.com//rapw3k/glosis/pull/6) in [rapw3k/glosis](https://github.com//rapw3k/glosis)
-5. 💪 Opened PR [#5](https://github.com//rapw3k/glosis/pull/5) in [rapw3k/glosis](https://github.com//rapw3k/glosis)
 <!--END_SECTION:activity-->
 
 ### Connect with me:
