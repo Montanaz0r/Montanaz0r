@@ -26,11 +26,11 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/2) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-2. 🎉 Merged PR [#7](https://github.com/Montanaz0r/glosis/pull/7) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
-3. 💪 Opened PR [#7](https://github.com/Montanaz0r/glosis/pull/7) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
-4. 💪 Opened PR [#10](https://github.com/rapw3k/glosis/pull/10) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-5. 🎉 Merged PR [#6](https://github.com/Montanaz0r/glosis/pull/6) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
+1. 🗣 Commented on [#14](https://github.com/rapw3k/glosis/issues/14) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+2. ❌ Closed PR [#14](https://github.com/rapw3k/glosis/pull/14) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+3. 💪 Opened PR [#14](https://github.com/rapw3k/glosis/pull/14) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+4. 🎉 Merged PR [#2](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/2) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
+5. 🎉 Merged PR [#7](https://github.com/Montanaz0r/glosis/pull/7) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
 <!--END_SECTION:activity-->
 
 ### Connect with me:
