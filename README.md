@@ -26,10 +26,10 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/rapw3k/glosis/pull/23) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-2. 🎉 Merged PR [#9](https://github.com/Montanaz0r/glosis/pull/9) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
-3. 💪 Opened PR [#9](https://github.com/Montanaz0r/glosis/pull/9) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
-4. 🗣 Commented on [#22](https://github.com/rapw3k/glosis/issues/22) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+1. 🗣 Commented on [#23](https://github.com/rapw3k/glosis/issues/23) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+2. 💪 Opened PR [#23](https://github.com/rapw3k/glosis/pull/23) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+3. 🎉 Merged PR [#9](https://github.com/Montanaz0r/glosis/pull/9) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
+4. 💪 Opened PR [#9](https://github.com/Montanaz0r/glosis/pull/9) in [Montanaz0r/glosis](https://github.com/Montanaz0r/glosis)
 5. 🗣 Commented on [#22](https://github.com/rapw3k/glosis/issues/22) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
 <!--END_SECTION:activity-->
 
