@@ -26,10 +26,10 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/14) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-2. 🎉 Merged PR [#13](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/13) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-3. 🎉 Merged PR [#12](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/12) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-4. 💪 Opened PR [#26](https://github.com/rapw3k/glosis/pull/26) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+1. ❗️ Opened issue [#34](https://github.com/rapw3k/glosis/issues/34) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+2. 🎉 Merged PR [#14](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/14) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
+3. 🎉 Merged PR [#13](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/13) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
+4. 🎉 Merged PR [#12](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/12) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
 5. 💪 Opened PR [#25](https://github.com/rapw3k/glosis/pull/25) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
 <!--END_SECTION:activity-->
 
