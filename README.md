@@ -26,11 +26,11 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/rapw3k/glosis/pull/37) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-2. 🎉 Merged PR [#36](https://github.com/rapw3k/glosis/pull/36) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-3. 💪 Opened PR [#37](https://github.com/rapw3k/glosis/pull/37) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-4. 🗣 Commented on [#36](https://github.com/rapw3k/glosis/issues/36) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-5. ❗️ Closed issue [#34](https://github.com/rapw3k/glosis/issues/34) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+1. 🎉 Merged PR [#35](https://github.com/rapw3k/glosis/pull/35) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+2. 🎉 Merged PR [#37](https://github.com/rapw3k/glosis/pull/37) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+3. 🎉 Merged PR [#36](https://github.com/rapw3k/glosis/pull/36) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+4. 💪 Opened PR [#37](https://github.com/rapw3k/glosis/pull/37) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+5. 🗣 Commented on [#36](https://github.com/rapw3k/glosis/issues/36) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
 <!--END_SECTION:activity-->
 
 ### Connect with me:
