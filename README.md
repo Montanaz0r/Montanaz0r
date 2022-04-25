@@ -26,11 +26,11 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/rapw3k/glosis/issues/45) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-2. ❗️ Opened issue [#49](https://github.com/rapw3k/glosis/issues/49) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-3. 🎉 Merged PR [#15](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/15) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-4. ❗️ Opened issue [#46](https://github.com/rapw3k/glosis/issues/46) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
-5. 🎉 Merged PR [#44](https://github.com/rapw3k/glosis/pull/44) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+1. ❗️ Closed issue [#46](https://github.com/rapw3k/glosis/issues/46) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+2. 🗣 Commented on [#46](https://github.com/rapw3k/glosis/issues/46) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+3. ❗️ Closed issue [#45](https://github.com/rapw3k/glosis/issues/45) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+4. 🗣 Commented on [#45](https://github.com/rapw3k/glosis/issues/45) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+5. ❗️ Reopened issue [#45](https://github.com/rapw3k/glosis/issues/45) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
 <!--END_SECTION:activity-->
 
 ### Connect with me:
