@@ -26,11 +26,11 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/18) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-2. 🎉 Merged PR [#17](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/17) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-3. 🎉 Merged PR [#16](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/16) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
-4. ❗️ Opened issue [#33](https://github.com/LinkedEOData/GeoTriples/issues/33) in [LinkedEOData/GeoTriples](https://github.com/LinkedEOData/GeoTriples)
-5. 🎉 Merged PR [#50](https://github.com/rapw3k/glosis/pull/50) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+1. ❗️ Closed issue [#49](https://github.com/rapw3k/glosis/issues/49) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+2. 🗣 Commented on [#49](https://github.com/rapw3k/glosis/issues/49) in [rapw3k/glosis](https://github.com/rapw3k/glosis)
+3. 🎉 Merged PR [#18](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/18) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
+4. 🎉 Merged PR [#17](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/17) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
+5. 🎉 Merged PR [#16](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter/pull/16) in [Montanaz0r/IMDB-ratings-auto-inserter](https://github.com/Montanaz0r/IMDB-ratings-auto-inserter)
 <!--END_SECTION:activity-->
 
 ### Connect with me:
